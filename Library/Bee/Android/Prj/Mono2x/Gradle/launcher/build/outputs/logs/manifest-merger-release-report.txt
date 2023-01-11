@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-84:12
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:17:1-49:12
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-99
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:100-146
+	android:versionCode
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:147-187
+supports-screens
+ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-82:19
+MERGED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-82:19
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:33:5-47:19
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:33:5-47:19
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:24:5-34:19
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:24:5-34:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:18-50
+	android:label
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:25:5-27:41
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:5:5-44
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:22:5-67
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:19:5-79
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:5-23:36
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-33
+		MERGED from D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:9-62:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-58:40
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-61:40
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:9-66:33
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:9-69:36
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:9-72:36
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:9-75:37
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:9-78:50
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:13-40
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:9-81:40
+	android:value
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [:unityLibrary] D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:13-46
+queries
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\16e84a82246e39f10f24b4734dc13f8e\core-1.22.0\AndroidManifest.xml:41:13-62
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:16:22-82
+provider#com.vuforia.engine.app.VuforiaContentProvider
+ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:27:13-65
+	android:exported
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:26:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:30:13-32:53
+	android:resource
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:32:17-50
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Nyleco-J\.gradle\caches\transforms-2\files-2.1\81550764e351fe69e211497a95732f6a\VuforiaEngine\AndroidManifest.xml:31:17-67

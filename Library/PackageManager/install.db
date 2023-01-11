@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "778cd30f6ecb",
+        "mtime": 1670408298000,
+        "size": 145928765,
+        "localPath": "D:\\AR\\CAR AR\\Packages\\com.ptc.vuforia.engine-10.12.3.tgz"
+      }
+    }
+  }
+}

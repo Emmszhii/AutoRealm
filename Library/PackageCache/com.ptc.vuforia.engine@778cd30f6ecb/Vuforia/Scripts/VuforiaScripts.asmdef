@@ -1,0 +1,56 @@
+{
+    "name": "VuforiaScripts",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.WindowsMixedReality",
+        "Microsoft.MixedReality.OpenXR",
+        "Unity.XR.Management",
+        "Unity.XR.CoreUtils",
+        "UnityEngine.XR.MagicLeap",
+        "LuminUnity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "CloudRendering",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "LinuxStandalone64",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WebGL",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "4.0.0",
+            "define": "ARFOUNDATION_DEFINED"
+        },
+        {
+            "name": "com.unity.xr.windowsmr",
+            "expression": "1.0.0",
+            "define": "WINDOWS_XR_ENABLED"
+        },
+        {
+            "name": "com.microsoft.mixedreality.openxr",
+            "expression": "0.0.0",
+            "define": "OPEN_XR_ENABLED"
+        },
+        {
+            "name": "com.magicleap.unitysdk",
+            "expression": "0.0.0",
+            "define": "ML_UNITYSDK_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

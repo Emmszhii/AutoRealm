@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="30"
+9-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:3-52
+12-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-49
+13    <uses-feature
+13-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-63
+15        android:required="false" />
+15-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:64-88
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-65
+17-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:20-62
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-77
+18-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:20-74
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-63
+19-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:20-60
+20
+21    <uses-feature
+21-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-83
+22        android:name="android.hardware.camera"
+22-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:17-55
+23        android:required="false" />
+23-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:56-80
+24    <uses-feature
+24-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-93
+25        android:name="android.hardware.camera.autofocus"
+25-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-65
+26        android:required="false" />
+26-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:66-90
+27    <uses-feature
+27-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-89
+28        android:name="android.hardware.camera.front"
+28-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-61
+29        android:required="false" />
+29-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:62-86
+30    <uses-feature
+30-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-88
+31        android:name="android.hardware.touchscreen"
+31-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-60
+32        android:required="false" />
+32-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:61-85
+33    <uses-feature
+33-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-99
+34        android:name="android.hardware.touchscreen.multitouch"
+34-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-71
+35        android:required="false" />
+35-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:72-96
+36    <uses-feature
+36-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-108
+37        android:name="android.hardware.touchscreen.multitouch.distinct"
+37-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-80
+38        android:required="false" />
+38-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:81-105
+39
+40    <application android:extractNativeLibs="true" >
+40-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-18:17
+40-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+41        <activity
+41-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-11:16
+42            android:name="com.unity3d.player.UnityPlayerActivity"
+42-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+43            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+43-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:180-361
+44            android:exported="true"
+44-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:433-456
+45            android:hardwareAccelerated="false"
+45-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:397-432
+46            android:launchMode="singleTask"
+46-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:148-179
+47            android:resizeableActivity="false"
+47-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:362-396
+48            android:screenOrientation="fullUser"
+48-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-147
+49            android:theme="@style/UnityThemeSelector" >
+49-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+50            <intent-filter>
+50-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+51                <action android:name="android.intent.action.MAIN" />
+51-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+51-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+53-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+54            </intent-filter>
+55
+56            <meta-data
+56-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+57                android:name="unityplayer.UnityActivity"
+57-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+58                android:value="true" />
+58-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+59            <meta-data
+59-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+60                android:name="android.notch_support"
+60-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+61                android:value="true" />
+61-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+62        </activity>
+63
+64        <meta-data
+64-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+65            android:name="unity.splash-mode"
+65-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+66            android:value="0" />
+66-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+67        <meta-data
+67-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+68            android:name="unity.splash-enable"
+68-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+69            android:value="True" />
+69-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+70        <meta-data
+70-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+71            android:name="unity.launch-fullscreen"
+71-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+72            android:value="True" />
+72-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+73        <meta-data
+73-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+74            android:name="unity.allow-resizable-window"
+74-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
+75            android:value="False" />
+75-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
+76        <meta-data
+76-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
+77            android:name="notch.config"
+77-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
+78            android:value="portrait|landscape" />
+78-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
+79        <meta-data
+79-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-77
+80            android:name="com.google.ar.core"
+80-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-49
+81            android:value="optional" />
+81-->D:\AR\CAR AR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:50-74
+82    </application>
+83
+84</manifest>
