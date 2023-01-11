@@ -6,16 +6,14 @@
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
 *.unity merge=unityyamlmerge eol=lf
-*.unitypackage merge=unityyamlmerge eol=lf
 *.prefab merge=unityyamlmerge eol=lf
 *.physicsMaterial2D merge=unityyamlmerge eol=lf
 *.physicMaterial merge=unityyamlmerge eol=lf
 *.asset merge=unityyamlmerge eol=lf
 *.meta merge=unityyamlmerge eol=lf
 *.controller merge=unityyamlmerge eol=lf
-##  tgz and unitypackage ##
-add-vuforia-package-10-12-3.unitypackage merge=unityyamlmerge eol=lf
-Packages/com.ptc.vuforia.engine-10.12.3.tgz
+##  packages ##
+Packages/*.tgz
 ## git-lfs ##
 #Image
 *.jpg filter=lfs diff=lfs merge=lfs -text
